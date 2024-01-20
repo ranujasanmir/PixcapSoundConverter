@@ -14,7 +14,7 @@
 
 ## Installation
 
-To download go to [Download](https://github.com/ranujasanmir/pixcapmusicconverter/download) folder and select any version that suitable for your system(Recommended to download latest version):
+To download go to [Download](https://github.com/ranujasanmir/PixcapSoundConverter/tree/main/Download) folder and select any version that suitable for your system(Recommended to download latest version):
 
 ![Download PCMC](./img/install.PNG)
 
@@ -42,7 +42,7 @@ PCMS is a very user friendly and lightweight application. Just Install and open.
 
 ## Terms And Condition
 
-1. **Use Responsibly**: PCMCm is developed for only personal usage.
+1. **Use Responsibility**: PCMC is developed for only personal usage.
 
 2. **Security**: Virustotal show PCMC has viruses. Don't worry. It's because we developed this application using old compiler. PCMC is 1000% secured! 
 
